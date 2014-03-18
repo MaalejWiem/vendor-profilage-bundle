@@ -1,0 +1,15 @@
+{
+    "name": "aip/profilage-bundle",
+    "type": "claroline-plugin",
+    "require": {
+        "claroline/core-bundle": "~2.0",
+       
+    },
+    "autoload": {
+        "psr-0": { "aip\\ProfilageBundle": "" }
+    },
+    "target-dir": "aip/ProfilageBundle",
+    "extra": {
+        "dbVersion": "20130906115738"
+    }
+}
