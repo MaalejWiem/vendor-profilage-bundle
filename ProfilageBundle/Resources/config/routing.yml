@@ -1,0 +1,4 @@
+claro_image_player:
+    resource: "@AipProfilageBundle/Controller/AipProfilageController.php"
+    type:     annotation
+    prefix:   /
